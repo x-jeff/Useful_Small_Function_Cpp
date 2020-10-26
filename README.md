@@ -15,4 +15,8 @@
 
 # 2.类型转换
 
- * ['int'与'string'之间的互相转换](https://github.com/x-jeff/Useful_Small_Function_Cpp/blob/master/type_conversion/int_string.cpp)
+ * [`int`与`string`之间的互相转换](https://github.com/x-jeff/Useful_Small_Function_Cpp/blob/master/type_conversion/int_string.cpp)
+
+# 3.几何学
+
+ * [三维空间中，求直线和平面的交点](https://github.com/x-jeff/Useful_Small_Function_Cpp/blob/master/geometry/the_intersection_of_line_and_plane_in_3D.cpp)
